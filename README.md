@@ -4,7 +4,7 @@ The following instructions are for macOS Catalina through BigSur. If you are not
 or a later operating system like BigSur but have the option to update, we recommend doing so before
 following the instructions below.
 
-## Check That Your macOS System is Compatible with Flatiron School’s Requirements
+## Check That Your macOS System is Compatible with Academy Xi’s Requirements
 
 When working on software, it is important that your computer and the software
 you’re using are compatible. In this step, we’ll ensure that you can install all
@@ -33,10 +33,10 @@ If your computer does not meet the requirements and you can't upgrade, some
 programs may not work for you. Please reach out to an instructor for more
 information.
 
-## Check that Your macOS System Has Enough Space for Flatiron School’s Requirements
+## Check that Your macOS System Has Enough Space for Academy Xi’s Requirements
 
 The programs that we’ll be installing during environment setup and all of the
-work you’ll do with Flatiron School will need at least 4 GB of free disk
+work you’ll do with Academy Xi will need at least 4 GB of free disk
 space. Follow the steps below to ensure that you have enough disk space to
 install all the programs needed during environment setup.
 
@@ -190,7 +190,7 @@ Close and reopen your terminal to clear the error.
 
 ## Install Google Chrome
 
-Google Chrome is the browser that we will use for your Flatiron School Student
+Google Chrome is the browser that we will use for your Academy Xi Student
 Portal account and also for front-end web development. You are not required to
 use Google Chrome for personal work, but we highly encourage you to download it
 for access to your account and for development in the browser.
@@ -304,6 +304,6 @@ Or something similar to this:
 ### Check your work
 
 Install Slack for Mac and enable desktop notifications for Slack. One week
-before your start date, you will receive an invitation to join the Flatiron
-School workspace, `flatiron-school.slack.com`. You’ll also receive a welcome
+before your start date, you will receive an invitation to join the Academy Xi
+workspace, `academyxi.slack.com`. You’ll also receive a welcome
 email with information about channels you should join. -->
